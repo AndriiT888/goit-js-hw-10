@@ -14,5 +14,16 @@
 @import url('./header.css');
 @import url('./vite-promo.css');
 @import url('./badges.css');
+@import url('./1-timer.css');
+@import url('./2-snackbar.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+
+.nl2 {
+  color: orange;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-weight: bold;
+}

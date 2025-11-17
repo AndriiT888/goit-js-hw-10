@@ -6,6 +6,11 @@
   border: 1px solid;
   border-radius: 8px;
 }
+
+.back-link:hover {
+  background-color: rgb(158, 158, 255);
+}
+
 .back-link::before {
   content: '';
   position: absolute;
